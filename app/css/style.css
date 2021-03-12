@@ -1,0 +1,15 @@
+html {
+  color: #222;
+  font-size: 1em;
+  line-height: 1.4;
+}
+
+body {
+  margin: 5;
+}
+
+.heading {
+  font-size: 1em;
+  padding: 1em;
+  border: 0.1em solid #ccc;
+}
